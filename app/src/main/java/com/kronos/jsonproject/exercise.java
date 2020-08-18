@@ -12,6 +12,7 @@ import androidx.appcompat.widget.Toolbar;
 
 import android.view.View;
 import android.widget.TextView;
+import android.widget.Toast;
 
 public class exercise extends AppCompatActivity {
 
@@ -35,6 +36,8 @@ public class exercise extends AppCompatActivity {
         textView2.setText("Age : "+age);
         textView1.setText("Department : "+ department);
         textView3.setText("Phone OS : "+phone_inf);
+    // test
+
     }
 
 }
