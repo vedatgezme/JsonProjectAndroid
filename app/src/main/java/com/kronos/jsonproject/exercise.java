@@ -36,7 +36,13 @@ public class exercise extends AppCompatActivity {
         textView2.setText("Age : "+age);
         textView1.setText("Department : "+ department);
         textView3.setText("Phone OS : "+phone_inf);
-    // test
+
+
+        /*
+        *
+        *  TEST for commit gitHub
+        *
+        * */
 
     }
 
